@@ -1,6 +1,6 @@
-from MPS.interface import GraphElementIF
-from MPS.singleElement import *
-from MPS.composedElement import *
+from interface import GraphElementIF
+from singleElement import *
+from composedElement import *
 
 #O método de projeto Composite permite tratar objetos individuais e coleções de objetos da mesma forma. 
 #Assim, display() funciona tanto para elementos simples quanto compostos.

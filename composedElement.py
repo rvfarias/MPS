@@ -1,4 +1,4 @@
-from MPS.interface import GraphElementIF
+from interface import GraphElementIF
 
 class ComposedElement(GraphElementIF):
     def __init__(self, name):
